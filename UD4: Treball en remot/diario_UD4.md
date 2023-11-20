@@ -1,4 +1,4 @@
-# Diario UD4: Treball en
+# Diario UD4: Treball en remot
 Durante la clase impartida el **30/10/2023** dimos `SSH`
 ## **Qué he aprendido**
 - Utilizar los comando en SSH
