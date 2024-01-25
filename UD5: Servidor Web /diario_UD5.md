@@ -1,5 +1,5 @@
 # Diario UD5: Servidor Web
-Durante la clase impartida el **27/11/2023** y el **04/12/2023** dimos `el estudio de los servidores web`.
+Durante las clases impartidas el **27/11/2023** y el **04/12/2023** dimos `el estudio de los servidores web`.
 
 **27/11/2023** -> Empezamos con la explicación de lo que hay que hacer en el trabajo de “Actividad: Servidor Web”. Hacemos los grupos y nos repartimos que tenemos que hacer cada uno (yo Experto A) 
 **04/12/2023** -> Realizamos la búsqueda de información sobre el tema que nos ha tocado a cada uno. Yo al ser el “Experto A” he realizado una redacción explicando _“¿Qué es un servidor web?”_, _“¿Qué compone un servidor web?”_ y _“¿Qué versiones de servidores existen?”_.
